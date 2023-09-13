@@ -61,6 +61,7 @@ __pycache__/
 *.wld
 *.geojson
 *.json
+*.hd
 *.nc
 
 # Plots
@@ -77,3 +78,6 @@ __pycache__/
 
 # Ignore logs
 *.log
+
+# output of aria-tools
+out/
